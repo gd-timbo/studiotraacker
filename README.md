@@ -1,1 +1,1 @@
-# studiotraacker
+Pottery Studio Tracker tool
