@@ -1,0 +1,1 @@
+@keyframes wiggle{0%{transform:rotate(0)}25%{transform:rotate(-2deg)}75%{transform:rotate(2deg)}to{transform:rotate(0)}}.wiggle-active:active{animation:wiggle .2s ease-in-out infinite}
